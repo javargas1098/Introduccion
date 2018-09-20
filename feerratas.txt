@@ -1,8 +1,4 @@
 FE DE ERRATAS
 
 
-<<<<<<< HEAD
-* El término de la pagina (por lo general) 15 es impreciso.
-=======
-* El tErmino de la pagima por lo general 15 es impreSiso.
->>>>>>> erratas
+* El término de la pagina por lo general 15 es impreciso.
